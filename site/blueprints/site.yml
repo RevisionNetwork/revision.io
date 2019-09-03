@@ -1,0 +1,8 @@
+title: Site
+preset: page
+fields:
+  email:
+    label: Email address
+    type: text
+
+

@@ -1,0 +1,13 @@
+Title: collapse-2
+
+----
+
+Text: Day 2<br>One space for all communities
+
+----
+
+Snippet: collapse
+
+----
+
+Line: true

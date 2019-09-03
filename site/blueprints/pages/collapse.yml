@@ -1,0 +1,15 @@
+title: collapse block
+preset: page
+fields:
+  text:
+    label: title
+    type: text
+  snippet:
+    label: Snippet
+    type: text
+    default: collapse
+  line:
+    label: Line Break
+    type: toggle
+    text: Line break?
+    default: true

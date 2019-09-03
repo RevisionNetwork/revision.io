@@ -1,0 +1,17 @@
+Title: quote-1
+
+----
+
+Quotetext: <p>“REVISION gets the right heads around the table to make sure that we really think about the application of this technological revolution instead of blindly following the pack.”</p>
+
+----
+
+Credittext: <p>Nathan Williams (Minespider)</p>
+
+----
+
+Snippet: quote
+
+----
+
+Line: false

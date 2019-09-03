@@ -1,0 +1,21 @@
+title: button block
+fields:
+  text:
+    label: Text
+    type: textarea
+  buttontext:
+    label: Button Text
+    type: text
+  url:
+    label: URL
+    type: text
+  snippet:
+    label: Snippet
+    type: text
+    default: button
+  line:
+    label: Line Break
+    type: toggle
+    text: Line break?
+    default: false
+

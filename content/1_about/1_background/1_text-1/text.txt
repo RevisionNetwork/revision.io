@@ -1,0 +1,33 @@
+Title: text-1
+
+----
+
+Text:
+
+We face times when our societies are as volatile as our ecologies are disturbed. Capital is growing without any regard for human and planetary well-being. Meanwhile, new technologies are being commoditized faster than our ideological capacity to map out their long-term consequences.
+##
+When the market economy is extractive and public regulation is too slow, we need a new regulatory system that is able to act across borders and accommodate the need for rapid adaptation.
+
+----
+
+Size: small
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: true
+
+----
+
+Snippet: text
+
+----
+
+Line: false

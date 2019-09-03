@@ -1,0 +1,19 @@
+title: list double
+fields:
+  textleft:
+    label: Text left
+    type: textarea
+    size: large
+  textright:
+    label: Text right
+    type: textarea
+    size: large
+  snippet:
+    label: Snippet
+    type: text
+    default: listdouble
+  line:
+    label: Line Break
+    type: toggle
+    text: Line break?
+    default: false

@@ -1,0 +1,5 @@
+Title: 3col-1
+
+----
+
+Snippet: 3col

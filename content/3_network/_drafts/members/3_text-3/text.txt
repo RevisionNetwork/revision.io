@@ -1,0 +1,27 @@
+Title: text-3
+
+----
+
+Text: 
+
+----
+
+Size: small
+
+----
+
+Image: true
+
+----
+
+Downloads:
+
+- screen-shot-2019-07-28-at-18.37.21.png
+
+----
+
+Snippet: text
+
+----
+
+Line: false

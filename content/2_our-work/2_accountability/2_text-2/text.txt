@@ -1,0 +1,29 @@
+Title: text-2
+
+----
+
+Text: Active, peer accountability means there is mutual monitoring and real-time information sharing between the network members. Information, expertise, resources, and trust are exchanged real-time, while every implemented decision gets recorded and published in the Transparency Database. This eliminates the need for retrospective demanding of accounts.
+
+----
+
+Size: small
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: false
+
+----
+
+Snippet: text
+
+----
+
+Line: false

@@ -1,0 +1,9 @@
+Title: How to join
+
+----
+
+Snippet: 3col
+
+----
+
+Line: false

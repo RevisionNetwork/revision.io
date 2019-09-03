@@ -1,0 +1,21 @@
+Title: Join the Network
+
+----
+
+Text: You will be redirected to the application form.
+
+----
+
+Buttontext: Join the Network
+
+----
+
+Url: https://network.revision.io/
+
+----
+
+Snippet: button
+
+----
+
+Line: false

@@ -1,0 +1,7 @@
+title: group
+preset: page
+fields:
+  snippet:
+    label: Snippet
+    type: text
+    default: block

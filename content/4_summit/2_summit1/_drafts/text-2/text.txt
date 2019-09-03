@@ -1,0 +1,33 @@
+Title: text-2
+
+----
+
+Text: REVISION Summit 1.0 successfully connected over 1200 researchers, entrepreneurs, policy makers, scientists and thought leaders in Berlin, Germany to discuss narratives for a more purpose-oriented future.
+
+----
+
+Size: 
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: false
+
+----
+
+Snippet: text
+
+----
+
+Line: false
+
+----
+
+Collapse: true

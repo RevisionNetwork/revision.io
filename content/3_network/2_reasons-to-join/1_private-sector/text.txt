@@ -1,0 +1,73 @@
+Title: text-1
+
+----
+
+Text:
+
+##Policymakers and public institutions:
+- get insights on self-regulation and policy gaps
+- have a better understanding of the potential risks of emerging technologies
+- export data to base policy decisions on
+
+##Investors:
+- get access to a network of experts
+- understand technology-related risk areas better
+- analyze companies in detail for due-diligence
+
+##Executives:
+- decrease the risk of building products/services with unforeseen ethical consequences 
+- learn about tension areas to make better decisions
+
+##Tech-Workers:
+- voice concerns based on firsthand experience
+- learn about tension areas
+
+##Policy Managers:
+- follow the competition’s self-regulation efforts
+- identify, monitor and analyze policy issues affecting the company
+- inform internal stakeholders
+
+##CSR (Corporate Social Responsibility) Managers:
+- advance CSR efforts in digital rights and technoethics
+- obtain more data for CSR reports
+- stay up to date with CDR (Corporate Digital Responsibility) trends
+- start new initiatives
+
+##Researchers:
+- export data for evidence-based research
+- get a platform to raise concerns based on evidence
+- research, document, and analyze policies and practices
+- collect data on tension areas and violations
+
+##Journalists:
+- access to violation reports
+- access to benchmarking reports
+- get tangible data for stories
+
+##Civil Rights Organisations:
+- bring socio-ecological expertise
+- voice concerns
+
+----
+
+Size: small
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: false
+
+----
+
+Snippet: text
+
+----
+
+Line: false

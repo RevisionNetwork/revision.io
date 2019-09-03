@@ -1,0 +1,31 @@
+Title: text-1
+
+----
+
+Text:
+
+## Jan. 22–25 2020<br>Berlin, Germany
+
+The REVISION SUMMIT is an annual offline event that provides a platform for the REVISION NETWORK members to share knowledge, engage in public debates, showcase their progress towards their impact goals and revise their processes.
+
+We kindly invite you to be part of REVISION 2.0 and collectively start revising our futures.
+
+----
+
+Size: small
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Snippet: text
+
+----
+
+Line: false

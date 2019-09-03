@@ -1,0 +1,29 @@
+Title: text--1
+
+----
+
+Text: The REVISION network is an online, commons-based peer accountability network that operates with an active accountability mechanism.
+
+----
+
+Size: large
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: false
+
+----
+
+Snippet: text
+
+----
+
+Line: false

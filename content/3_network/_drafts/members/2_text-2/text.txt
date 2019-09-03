@@ -1,0 +1,40 @@
+Title: text-2
+
+----
+
+Text:
+
+## Organisations
+
+Organizations join to build trust by sharing their impact goals publicly, make sure their goals and OKRs are aligned with global sustainability targets, receive ongoing expert feedback, utilize new technologies responsibly and be part of inter-organizational systemic intervention projects.
+
+#### Benefits:
+
+-  Internal and external social responsibility promoted
+-  Access to P2P expert feedback groups
+-  Tap into new technologies
+-  Ability to create joint problem perception 
+-  (Re)build trust
+-  Build strategic alliances
+-  Shift to new business models
+-  Set the bar for responsible leadership
+
+----
+
+Size: small
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Snippet: text
+
+----
+
+Line: true

@@ -1,0 +1,29 @@
+Title: text-3
+
+----
+
+Text: REVISION's peer accountability system aims to serve as a complementary governance model that eliminates the pressure to choose between state-based hierarchy and markets as dominant governing paradigms.
+
+----
+
+Size: small
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: true
+
+----
+
+Snippet: text
+
+----
+
+Line: false

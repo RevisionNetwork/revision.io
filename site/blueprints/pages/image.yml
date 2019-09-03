@@ -1,0 +1,27 @@
+title: Image Block
+fields:
+  text:
+    label: text
+    type: textarea
+  downloads:
+    label: Select files...
+    type: files
+    min: 1
+    max: 1
+  size:
+    label: Text size
+    type: select
+    options:
+      large: Large
+      small: Small
+    default: small
+  snippet:
+    label: Snippet
+    type: text
+    default: image
+  line:
+    label: Line Break
+    type: toggle
+    text: Line break?
+    default: false
+

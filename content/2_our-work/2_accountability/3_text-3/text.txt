@@ -1,0 +1,29 @@
+Title: text-3
+
+----
+
+Text: Peer accountability builds on the idea of accountability as a virtue, to which network members actively conform to. This creates a ‘culture’ of reciprocal accountability where deliberation and compromise-seeking are the rule with every interaction.
+
+----
+
+Size: small
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: false
+
+----
+
+Snippet: text
+
+----
+
+Line: false

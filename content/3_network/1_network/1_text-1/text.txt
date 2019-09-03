@@ -1,0 +1,29 @@
+Title: text-1
+
+----
+
+Text: REVISION is a peer accountability system for regulating emerging technologies and promoting responsible leadership.
+
+----
+
+Size: large
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: true
+
+----
+
+Snippet: text
+
+----
+
+Line: false

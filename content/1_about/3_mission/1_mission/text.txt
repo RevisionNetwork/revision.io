@@ -1,0 +1,29 @@
+Title: Mission
+
+----
+
+Text: REVISION's mission is to build a peer accountability network of private and public stakeholders in order to surface ethical innovation principles and accelerate their adoption worldwide.
+
+----
+
+Size: large
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: false
+
+----
+
+Snippet: text
+
+----
+
+Line: false

@@ -1,0 +1,12 @@
+title: 3col block
+preset: page
+fields:
+  snippet:
+    label: Snippet
+    type: text
+    default: 3col
+  line:
+    label: Line Break
+    type: toggle
+    text: Line break?
+    default: false

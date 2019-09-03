@@ -1,0 +1,15 @@
+title: col block
+preset: page
+fields:
+  text:
+    label: block type
+    type: text
+  snippet:
+    label: Snippet
+    type: text
+    default: colblock
+  line:
+    label: Line Break
+    type: toggle
+    text: Line break?
+    default: false

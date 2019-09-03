@@ -1,0 +1,16 @@
+title: list single
+fields:
+  text:
+    label: Text
+    type: textarea
+    size: large
+  snippet:
+    label: Snippet
+    type: text
+    default: listsingle
+  line:
+    label: Line Break
+    type: toggle
+    text: Line break?
+    default: false
+

@@ -1,0 +1,18 @@
+title: profile
+fields:
+  name:
+    label: name
+    type: text
+  desc:
+    label: description
+    type: textarea
+    size: large
+  downloads:
+    label: Profile picture
+    type: files
+    min: 0
+    max: 1
+  snippet:
+    label: Snippet
+    type: text
+    default: profile

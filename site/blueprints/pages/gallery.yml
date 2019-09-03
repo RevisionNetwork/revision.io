@@ -1,0 +1,15 @@
+title: gallery block
+fields:
+  downloads:
+    label: Select files...
+    type: files
+    min: 1
+  snippet:
+    label: Snippet
+    type: text
+    default: gallery
+  line:
+    label: Line Break
+    type: toggle
+    text: Line break?
+    default: false

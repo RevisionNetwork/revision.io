@@ -1,0 +1,38 @@
+title: text block
+fields:
+  text:
+    label: Text
+    type: textarea
+    size: large
+  size:
+    label: Text size
+    type: select
+    options:
+      large: Large
+      small: Small
+    default: small
+  image:
+    label: Image?
+    type: toggle
+    text: Image?
+    default: false
+  downloads:
+    label: Select files...
+    type: files
+    min: 0
+    max: 1
+  condense:
+    label: Condense?
+    type: toggle
+    text: Condense?
+    default: false
+  snippet:
+    label: Snippet
+    type: text
+    default: text
+  line:
+    label: Line Break
+    type: toggle
+    text: Line break?
+    default: false
+

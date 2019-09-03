@@ -1,0 +1,18 @@
+title: quote
+fields:
+  quotetext:
+    label: quote text
+    type: textarea
+    size: large
+  credittext:
+    label: credit
+    type: text
+  snippet:
+    label: Snippet
+    type: text
+    default: quote
+  line:
+    label: Line Break
+    type: toggle
+    text: Line break?
+    default: false
