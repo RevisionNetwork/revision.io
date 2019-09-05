@@ -1,0 +1,33 @@
+Title: text-2
+
+----
+
+Text:
+
+##REVISION Summit
+###
+The REVISION summit is an annual offline event where organizations showcase their progress, propose new objectives and revise their processes related to ethical technology collectively, while experts and institutional representatives present their findings and point out tension areas in their fields.
+
+----
+
+Size: small
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: false
+
+----
+
+Snippet: text
+
+----
+
+Line: false

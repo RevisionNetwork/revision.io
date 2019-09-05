@@ -30,11 +30,13 @@
   gtag('config', 'UA-123294241-1');
   </script>
 
+  <meta name = "description" content = "<?= $page->metadesc() ?>" />
+
 </head>
 <body class="<?php if(!$page->isHomePage()): ?>page--open<?php endif ?>">
 
   <div class="header">
-    <a class="site--title" href="<?= $site->url() ?>"><img class='icon' src='assets/image/icon.svg'><?= $site->title() ?></a>
+    <a class="site--title" href="<?= $site->url() ?>"><?= $site->title() ?></a>
     <div class="home--tag">technology + accountability</div>
   </div>
 

@@ -9,7 +9,7 @@ The REVISION network is a closed community with a public interface (Transparency
 
 For research bodies and experts: 
 - published research on ethical technologies (or related topic) OR 
-- working in the field of ethical tech OR
+- working in the field of ethical technology OR
 - accredited research institution
 
 For organizations: 

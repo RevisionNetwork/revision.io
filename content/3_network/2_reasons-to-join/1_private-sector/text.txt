@@ -42,7 +42,7 @@ Text:
 ##Journalists:
 - access to violation reports
 - access to benchmarking reports
-- get tangible data for stories
+- get data for research
 
 ##Civil Rights Organisations:
 - bring socio-ecological expertise

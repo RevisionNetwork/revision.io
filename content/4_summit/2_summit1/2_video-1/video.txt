@@ -2,9 +2,11 @@ Title: video-1
 
 ----
 
-Downloads:
+Downloads: 
 
-- homevid_4.mp4
+----
+
+Text: (video: http://www.youtube.com/watch?v=lLuc6rtWkrM)
 
 ----
 
@@ -13,3 +15,11 @@ Snippet: video
 ----
 
 Line: false
+
+----
+
+Videourl: test
+
+----
+
+Url: help

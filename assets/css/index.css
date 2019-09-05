@@ -116,6 +116,13 @@ body canvas{
   margin-bottom: 1em;
 }
 
+.text--small a,
+.text--large a{
+  border-bottom: 1px solid black;
+  display: inline-block;
+  line-height: 0.9em;
+}
+
 .uppercase{
   text-transform: uppercase;
 }
@@ -187,7 +194,7 @@ canvas{
   top: 50%;
   font-size: 3.2vw;
   line-height: 3.2vw;
-  filter: blur(4px);
+  filter: blur(0.2vw);
   text-transform: uppercase;
   white-space: nowrap;
   letter-spacing: -0.04em;
@@ -726,6 +733,15 @@ main{
   position: relative;
   border-radius: 10px;
   border: 1px solid black;
+  margin: 0;
+  overflow: hidden;
+}
+
+.video iframe{
+  border: 0;
+  width: 100%;
+  height: 27.1vw;
+  margin-bottom: -5px;
 }
 
 .list--wrapper{
@@ -1132,6 +1148,7 @@ ul li:before {
     line-height: 3vh;
     z-index: -2;
     white-space: normal;
+    filter: blur(0.4vw);
   }
 
   .quote--wrapper {
@@ -1147,6 +1164,11 @@ ul li:before {
     font-size: 4vh;
     line-height: 0.8em;
     text-decoration: none !important;
+  }
+
+  .video iframe {
+    height: 53vw;
+    margin-bottom: -10px;
   }
 
 }

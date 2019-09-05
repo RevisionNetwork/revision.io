@@ -3,8 +3,11 @@ fields:
   downloads:
     label: Select files...
     type: files
-    min: 1
+    min: 0
     max: 1
+  text:
+    label: video url
+    type: text
   snippet:
     label: Snippet
     type: text

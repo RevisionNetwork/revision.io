@@ -5,12 +5,12 @@ Title: Ethical Technology Principles
 Text:
 
 ### 5 Ethical Technology Principles:
-
-- Beneficence: promoting well-being, preserving human dignity, and sustaining the planet
-- Non-maleficence: privacy, security and ‘capability caution’
-- Autonomy: the power to decide (to decide)
-- Justice: promoting prosperity, preserving solidarity, avoiding unfairness
-- Explicability: enabling the other principles through intelligibility and accountability
+##
+- BENEFICENCE: promoting well-being, preserving human dignity, and sustaining the planet
+- NON-MALEFICENCE: privacy, security and ‘capability caution’
+- AUTONOMY: the power to decide (to decide)
+- JUSTICE: promoting prosperity, preserving solidarity, avoiding unfairness
+- EXPLICABILITY: enabling the other principles through intelligibility and accountability
 
 ----
 

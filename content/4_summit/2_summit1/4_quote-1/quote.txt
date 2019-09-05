@@ -2,11 +2,11 @@ Title: quote-1
 
 ----
 
-Quotetext: “Revision brought together people from a wide range of different disciplines and backgrounds, all very passionate about finding ways to shape a better future. There was a real generosity of spirit running through the whole event and its organising team, with participants and presenters being able to easily connect and to get a sense of the powerful shared impulse moving through everyone!”
+Quotetext: “Revision brought together people from a wide range of different disciplines and backgrounds, all very passionate about finding ways to shape a better future. There was a real generosity of spirit running through the whole event and its organizing team, with participants and presenters being able to easily connect and to get a sense of the powerful shared impulse moving through everyone!”
 
 ----
 
-Credittext: Shelly Sachs (Oxford Brookes University - Social Sculpture Research Unit)
+Credittext: -Shelly Sachs (Oxford Brookes University - Social Sculpture Research Unit)
 
 ----
 

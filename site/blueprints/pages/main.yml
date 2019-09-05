@@ -1,3 +1,10 @@
 title: Main
 preset: page
+fields:
+  metatitle:
+    label: Meta title
+    type: text
+  metadesc:
+    label: Meta desc
+    type: text
 
