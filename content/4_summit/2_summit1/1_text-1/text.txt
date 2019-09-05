@@ -14,11 +14,13 @@ Size: small
 
 ----
 
-Image: false
+Image: true
 
 ----
 
-Downloads: 
+Downloads:
+
+- screen-shot-2019-09-05-at-17.58.33.png
 
 ----
 

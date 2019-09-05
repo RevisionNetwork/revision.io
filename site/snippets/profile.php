@@ -1,6 +1,6 @@
 <div class="block--section section--profile text--small <?= $data->line()->bool()? 'break': ''; ?>">
 
-	<?php if($image = $data->image()): ?>
+	<?php if($image = $data->downloads()->toFile()): ?>
 		<img class="img--profile" src="<?= $image->url() ?>" alt="">
 	<?php endif ?>
 

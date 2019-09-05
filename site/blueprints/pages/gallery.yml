@@ -4,6 +4,7 @@ fields:
     label: Select files...
     type: files
     min: 1
+    uploads: false
   snippet:
     label: Snippet
     type: text
