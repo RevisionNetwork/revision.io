@@ -530,9 +530,7 @@ main{
 .section--image img{
   position: relative;
   width: 100%;
-  max-height: 40vh;
   object-fit: contain;
-  padding: 40px 40px;
   border: 1px solid black;
   margin-bottom: 0.8vw;
   border-radius: 10px;
