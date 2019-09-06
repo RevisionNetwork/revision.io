@@ -1,0 +1,17 @@
+Title: quote-1
+
+----
+
+Quotetext: <p>"REVISION 1.0 wasn't just another tech conference or networking event - it was a real mind-opening experience.”</p>
+
+----
+
+Credittext: <p>Annika Heintz (Change.org)</p>
+
+----
+
+Snippet: quote
+
+----
+
+Line: false

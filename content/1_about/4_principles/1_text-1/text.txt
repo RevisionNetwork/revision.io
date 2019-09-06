@@ -1,0 +1,29 @@
+Title: text-1
+
+----
+
+Text: We work towards the promotion and adoption of the following five values across all organisations:
+
+----
+
+Size: large
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: true
+
+----
+
+Snippet: text
+
+----
+
+Line: false

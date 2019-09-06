@@ -1,0 +1,31 @@
+Title: partners
+
+----
+
+Text: REVISION SUMMIT 1.0 PARTNERS AND CO-CREATORS
+
+----
+
+Size: small
+
+----
+
+Image: true
+
+----
+
+Downloads:
+
+- screenshot-2019-09-05-at-14.43.16.png
+
+----
+
+Condense: false
+
+----
+
+Snippet: text
+
+----
+
+Line: false

@@ -1,0 +1,37 @@
+Title: text-2
+
+----
+
+Text:
+
+- BENEFICENCE: promoting well-being, preserving human dignity, and sustaining the planet
+- NON-MALEFICENCE: privacy, security and ‘capability caution’
+- AUTONOMY: the power to decide (to decide)
+- JUSTICE: promoting prosperity, preserving solidarity, avoiding unfairness
+- EXPLICABILITY: enabling the other principles through intelligibility and accountability
+
+Floridi, L., & Cowls, J. (2019). A Unified Framework of Five Principles for AI in Society. [Harvard Data Science Review.](https://doi.org/10.1162/99608f92.8cd550d1)
+
+----
+
+Size: small
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: false
+
+----
+
+Snippet: text
+
+----
+
+Line: false

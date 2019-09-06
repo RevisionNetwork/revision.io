@@ -1,0 +1,29 @@
+Title: Vision
+
+----
+
+Text: REVISION's vision is to become a globally adopted system that sets the benchmark for ethical technology.
+
+----
+
+Size: large
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: false
+
+----
+
+Snippet: text
+
+----
+
+Line: false

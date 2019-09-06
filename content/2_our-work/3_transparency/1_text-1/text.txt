@@ -1,0 +1,35 @@
+Title: text-1
+
+----
+
+Text:
+
+The Transparency Database is an online platform for searching, comparing, propagating and negotiating ethical technology principles and related organizational objectives. 
+**
+The database serves as a transparency tool for organizations to adopt goals, showcase their progress, find overlapping areas for research with other stakeholders, build inter-organizational and cross-border solutions and establish a process of constant reassessment of tension areas. 
+**
+It also serves as a platform for experts, researchers, the media and everyone who wants to raise concerns, highlighting tension areas and follow organizational commitments to ethical technology goals.
+
+----
+
+Size: small
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: true
+
+----
+
+Snippet: text
+
+----
+
+Line: false

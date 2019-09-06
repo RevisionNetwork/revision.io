@@ -1,0 +1,29 @@
+Title: text-1
+
+----
+
+Text: The REVISION summit as an annual offline event which provides a progressive platform for organizations to revise and define their
+
+----
+
+Size: small
+
+----
+
+Image: false
+
+----
+
+Downloads: 
+
+----
+
+Condense: false
+
+----
+
+Snippet: text
+
+----
+
+Line: false

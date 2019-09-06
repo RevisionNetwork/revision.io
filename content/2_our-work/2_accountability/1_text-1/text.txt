@@ -2,7 +2,11 @@ Title: text--1
 
 ----
 
-Text: The REVISION network is an online, commons-based peer accountability network that operates with an active accountability mechanism.
+Text:
+
+The REVISION network is a peer accountability network that operates with an active accountability mechanism.
+
+Active, peer accountability means that there is mutual monitoring and real-time information sharing between the network members. Information, expertise, and resources are exchanged, while every implemented decision gets published in the Transparency Database real-time. This eliminates the need for retrospective demanding of accounts.
 
 ----
 
