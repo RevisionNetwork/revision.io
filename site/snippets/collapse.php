@@ -2,7 +2,7 @@
 	<h2><?= $data->text() ?></h2>
 	<div class="collapse--button">+</div>
 	<div class="collapse--content">
-		<? foreach($data->children() as $subpage){
+		<?php foreach($data->children() as $subpage){
 		    snippet($subpage->snippet(), ['data' => $subpage]);
 		}
 		?>

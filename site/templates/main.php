@@ -4,7 +4,7 @@
 ?>
 
 <?php if(!$page->isHomePage() && $page->children()->count() > 1): ?>
-  <? snippet('submenu', ['data' => $page]); ?>
+  <?php snippet('submenu', ['data' => $page]); ?>
 <?php endif ?>
 
 <?php if(!$page->isHomePage()): ?>

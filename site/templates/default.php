@@ -1,10 +1,10 @@
 <?php if(!kirby()->request()->ajax()) { 
-		snippet('header');
-	}
+    snippet('header');
+  }
 ?>
 
 <?php if(!$page->isHomePage() && $page->children()->count() > 1): ?>
-  <? snippet('submenu', ['data' => $page]); ?>
+  <?php snippet('submenu', ['data' => $page]); ?>
 <?php endif ?>
 
 <?php if(!$page->isHomePage()): ?>
@@ -31,6 +31,6 @@
 </div>
 
 <?php if(!kirby()->request()->ajax()) { 
-		snippet('footer');
-	}
+    snippet('footer');
+  }
 ?>

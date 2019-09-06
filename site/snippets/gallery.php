@@ -1,6 +1,6 @@
 <div class="block--section section--gallery <?= $data->line()->bool()? 'break': ''; ?>">
 	<div class="gallery">
-	<? $index = 0; foreach($data->downloads()->toFiles() as $image){
+	<?php $index = 0; foreach($data->downloads()->toFiles() as $image){
 		
 	    echo '<img src="' . $image->url() . '" alt="">';
 	    
