@@ -2,15 +2,15 @@ Title: join
 
 ----
 
-Text: You will be redirected to the application form.
+Text: Applications will soon be open. In the meantime, feel free to reach out if you have any questions.
 
 ----
 
-Buttontext: JOIN the network
+Buttontext: CONTACT US
 
 ----
 
-Url: http://network.revision.io
+Url: membership@revision.io
 
 ----
 

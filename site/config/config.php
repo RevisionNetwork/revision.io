@@ -9,8 +9,10 @@ return [
 		    return page($any);
 		  }
 		]
-	]
-
+	],
+      'panel' => [
+        	 'install' => true
+        ]
 ];
 
 
