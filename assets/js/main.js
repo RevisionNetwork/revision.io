@@ -65,6 +65,8 @@ $("document").ready(function(){
 		var url = $(this).attr('href');
 		if(url.includes('http')){
 			window.open(url, '_blank');
+		} else if(url.includes('mailto')){
+			window.open(url);
 		} else {
 			$(".menu > a").removeClass("selected");
 			$(".menu > a").each(function(){
