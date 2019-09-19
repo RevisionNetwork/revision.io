@@ -4,5 +4,14 @@ fields:
   email:
     label: Email address
     type: text
+  metatitle:
+    label: Meta title
+    type: text
+  metadesc:
+    label: Meta desc
+    type: text
+  metaimg:
+    label: meta img url
+    type: text
 
 

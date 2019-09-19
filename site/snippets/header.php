@@ -30,7 +30,19 @@
   gtag('config', 'UA-123294241-1');
   </script>
 
-  <meta name = "description" content = "<?= $page->metadesc() ?>" />
+  <?php if($page->isHomePage()): ?>
+    <meta name = "description" content = "<?= $site->metadesc() ?>" />
+    <meta property="og:title" content="<?= $site->metatitle() ?>">
+    <meta property="og:description" content="<?= $site->metadesc() ?>">
+  <?php endif ?>
+
+  <?php if(!$page->isHomePage()): ?>
+    <meta name = "description" content = "<?= $page->metadesc() ?>" />
+    <meta property="og:title" content="<?= $page->metatitle() ?>">
+    <meta property="og:description" content="<?= $page->metadesc() ?>">
+  <?php endif ?>
+
+  <meta property="og:image" content="<?= $site->metaimg() ?>">
 
 </head>
 <body class="<?php if(!$page->isHomePage()): ?>page--open<?php endif ?>">
